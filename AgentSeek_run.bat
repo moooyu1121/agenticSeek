@@ -1,4 +1,4 @@
-call agentic_seek_env\Scripts\activate
+call .venv\Scripts\activate
 
 start start_services.cmd full
 
